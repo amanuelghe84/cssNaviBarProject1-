@@ -1,0 +1,27 @@
+.box-model{
+    background-color: blue;
+    width: 400px;
+    height: 200px;
+    padding:0px;
+    text-align: center;
+    box-shadow: 10px 10px 10px #d40a1e98;
+
+
+}
+#box-model-1{
+    background-color: blueviolet;
+    box-shadow: 10px 10px 10px #;
+    /* width: 500px;
+    height: 300px; */
+    /* text-align:end; */
+}
+
+#box-model-3{
+    background-color: chartreuse;
+    /* text-align:justify; */
+}
+img{
+    width: 400px;
+    height: 300px;
+
+}
